@@ -1,0 +1,14 @@
+{
+  "name": "mysiteexpress",
+  "version": "1.0.0",
+  "description": "first expressjs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test_it"
+  },
+  "author": "Ashfaq Mahmud",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
